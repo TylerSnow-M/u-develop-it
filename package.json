@@ -20,5 +20,8 @@
   "homepage": "https://github.com/TylerSnow-M/u-develop-it#readme",
   "devDependencies": {
     "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
